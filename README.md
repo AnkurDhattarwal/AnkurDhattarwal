@@ -3,8 +3,9 @@
 
 <!-- Animated Name (Hacker Premium) -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=700&size=32&pause=700&color=00FFC2&center=true&vCenter=true&width=600&lines=%3E%3E+Ankur+Dhattarwal;Full+Stack+Developer;Tech+Explorer+%7C+Problem+Solver" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=700&color=00FFC2&center=true&vCenter=true&width=600&lines=%3E%3E+Ankur+Dhattarwal;Full+Stack+Developer;Tech+Explorer+%7C+Problem+Solver" alt="Typing Animation"/>
 </h2>
+
 
 <!-- Subtitle -->
 <p align="center">Passionate about coding, creating, and exploring the digital universe.</p>
